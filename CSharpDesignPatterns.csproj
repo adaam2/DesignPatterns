@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Behavioral\Observer\Observer.cs" />
+    <Compile Include="Behavioral\Observer\Subject.cs" />
     <Compile Include="Creational\Factory\ConcreteCreator.cs" />
     <Compile Include="Creational\Factory\ConcreteCreator2.cs" />
     <Compile Include="Creational\Factory\ConcreteProduct.cs" />
@@ -57,7 +59,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Behavioral\" />
     <Folder Include="Creational\AbstractFactory\" />
     <Folder Include="Creational\Builder\" />
     <Folder Include="Structural\" />
