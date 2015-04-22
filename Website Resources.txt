@@ -1,0 +1,5 @@
+﻿Good explanation of when to use design patterns in the REAL WORLD:
+http://codebetter.com/jeremymiller/2006/04/11/six-design-patterns-to-start-with/
+
+Follow up from the same guy:
+http://codebetter.com/jeremymiller/2005/09/01/learning-about-design-patterns/
